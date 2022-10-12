@@ -1,4 +1,4 @@
-Practice: Users and Groups
+Practice: Users and Groups (all answers are in heading 2)
 
 1. Create the users Serena Williams, Venus Williams and Justine Henin, all of them
 with password set to stargate, with username (lower case!) as their first name, and
