@@ -4,7 +4,7 @@ Practice: Users and Groups
 with password set to stargate, with username (lower case!) as their first name, and
 their full name in the comment. Verify that the users and their home directory are
 properly created. –
-sudo su; useradd -c "Serena Williams" Serena; useradd -c "Venus Williams" Venus; useradd -c "Justine Henin" Justine; passwd Serena; passwd Venus; passwd Justine
+##sudo su; useradd -c "Serena Williams" Serena; useradd -c "Venus Williams" Venus; useradd -c "Justine Henin" Justine; passwd Serena; passwd Venus; passwd Justine
 
 2. Create a user called kornuser, give him the Korn shell (/bin/ksh) as his default
 shell. Log on with this user (on a command line or in a tty). -
